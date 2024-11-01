@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Meow Woocommerce Book Keeper v1.02\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-09 18:47+0000\n"
+"PO-Revision-Date: 2020-01-09 18:49+0000\n"
+"Last-Translator: Roman <roman@meow-com.com>\n"
+"Language-Team: Français\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: fr_FR\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: mw-book-keeper.php:41
+msgid "Export Book Keeping"
+msgstr "Exporter la comptabilité"
+
+#: mw-book-keeper.php:42
+msgid "Book Keeping Settings"
+msgstr "Paramètres comptables"
+
+#: admin/admin-page.php:3 admin/export-page.php:3
+msgid "Meow Woocommerce Book Keeper"
+msgstr ""
+
+#: admin/admin-page.php:4
+msgid "Settings"
+msgstr "Paramètres"
+
+#: admin/admin-page.php:5
+msgid "Please enter the following data:"
+msgstr "Merci de remplir les données suivantes : "
+
+#: admin/admin-page.php:6
+msgid "This version of the plugin only allows to use generic accounts."
+msgstr ""
+"Cette version du plugin permet d'utiliser les comptes comptables génériques "
+"uniquement."
+
+#: admin/admin-page.php:7
+msgid "More features ? "
+msgstr "Besoin de plus de fonctionnalités ? "
+
+#: admin/admin-page.php:7
+msgid "Check our Expert version !"
+msgstr "Découvrez notre version Expert !"
+
+#: admin/admin-page.php:15
+msgid "Products"
+msgstr "Produits"
+
+#: admin/admin-page.php:20
+msgid "Account code - Product"
+msgstr "Compte comptable - produit"
+
+#: admin/admin-page.php:28
+msgid "Customers"
+msgstr "Clients"
+
+#: admin/admin-page.php:33
+msgid "Account code - Customer"
+msgstr "Compte comptable - client"
+
+#: admin/admin-page.php:42
+msgid "Taxes and delivery options"
+msgstr "Paramètres de taxes et modes d'expédition"
+
+#: admin/admin-page.php:46
+msgid "Account code - Tax"
+msgstr "Compte comptable - Taxe"
+
+#: admin/admin-page.php:51
+msgid "Account code - Delivery options"
+msgstr "Compte comptable - méthode d'expédition"
+
+#: admin/admin-page.php:59
+msgid "Journal reference number"
+msgstr "Code journal"
+
+#: admin/admin-page.php:63
+msgid "Sales journal reference number"
+msgstr "Code journal des ventes"
+
+#: admin/admin-page.php:75
+msgid "CSV Columns Headers"
+msgstr "Entêtes de colonnes CSV"
+
+#: admin/admin-page.php:81
+msgid "Sales Journal"
+msgstr "Journal des Ventes"
+
+#: admin/admin-page.php:87
+msgid "Date"
+msgstr "Date"
+
+#: admin/admin-page.php:93
+msgid "Invoice Number"
+msgstr "Numéro de pièce"
+
+#: admin/admin-page.php:99
+msgid "Accounting Code"
+msgstr "Compte Comptable"
+
+#: admin/admin-page.php:105
+msgid "Label"
+msgstr "Label"
+
+#: admin/admin-page.php:111
+msgid "Outcome"
+msgstr "Débit"
+
+#: admin/admin-page.php:117
+msgid "Income"
+msgstr "Crédit"
+
+#: admin/admin-page.php:125
+msgid "Uninstall Process"
+msgstr "Processus de désinstallation"
+
+#: admin/admin-page.php:129
+msgid "Delete everything from database when deleted ?"
+msgstr "Effacer tous les éléments de la base de donnée à la désinstallation ?"
+
+#: admin/admin-page.php:145
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: admin/export-page.php:11
+msgid "Export settings"
+msgstr "Paramètres d'export"
+
+#: admin/export-page.php:12
+msgid "Configure your export and export completed orders."
+msgstr "Paramétrez votre export et exportez les commandes terminées."
+
+#: admin/export-page.php:32
+msgid "Period to be exported"
+msgstr "Période à exporter"
+
+#: admin/export-page.php:35
+msgid "Start"
+msgstr "Début"
+
+#: admin/export-page.php:38
+msgid "End"
+msgstr "Fin"
+
+#: admin/export-page.php:42
+msgid "Separator"
+msgstr "Séparateur"
+
+#: admin/export-page.php:47
+msgid "Comma"
+msgstr "Virgule"
+
+#: admin/export-page.php:48
+msgid "Semi-Colon"
+msgstr "Point-virgule"
+
+#: admin/export-page.php:49
+msgid "Tab"
+msgstr "Tabulation"
+
+#: admin/export-page.php:52
+msgid "Export!"
+msgstr "Exporter !"
+
+#: admin/export-page.php:57
+msgid "Help us with 5 Stars: "
+msgstr "Encouragez nous avec 5 étoiles : "
+
+#: admin/export-page.php:57
+msgid "Need Help: "
+msgstr "Besoin d'aide : "
+
+#: admin/export-page.php:57
+msgid "Support Forum"
+msgstr "Forum d'aide"
+
+#. Description of the plugin
+msgid ""
+"The basic CSV Exporter from Woocommerce Orders to accounting softwares. "
+"Expert version with more options will be back soon."
+msgstr ""
+"Un export simple et efficace vers les logiciels de comptabilité. La version "
+"Expert sera bientôt de retour..."
+
+#. URI of the plugin
+msgid "http://www.woocommerce-book-keeper.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ro_meow"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.b-sider.fr"
+msgstr ""
